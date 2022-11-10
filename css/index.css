@@ -189,4 +189,7 @@ address p{
 .copy p{
    margin:0;
 }
+.main img{
+   width:700px;
+}
 
