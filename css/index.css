@@ -278,6 +278,9 @@ margin:2px 3.2px;
   .userentrycontainer h1{
    margin:0 0 40px 0;
   }
+  .userentrycontainer  label > span{
+   color:red;
+  }
   .submitbut{
    background-color:black;
    color:white;
